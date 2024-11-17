@@ -1,6 +1,5 @@
 import Image from "next/image";
 
-
 interface propsType {
     img: string;
     title: string;

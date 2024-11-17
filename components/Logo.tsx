@@ -6,7 +6,7 @@ const Logo = () => {
   return (
     <>
         <div className='border-b border-gray-200 py-6'>
-            <div className='container sm:flex justify-between items-center'>
+            <div className='container flex gap-2 sm:flex justify-between items-center'>
                 {/* Logo Area */}
                 <div className='font-bold text-4xl text-center pb-4 sm:pb-0 text-night'><Link href="/"><span className="text-primary">O</span>s<span className="text-primary">t</span>a</Link></div>
                 <select className="text-gray-500 text-[0.75rem] w-[6.5rem] outline-night mr-3 ml-3 "
@@ -14,7 +14,7 @@ const Logo = () => {
                     id= "city"
                     <option value="helsinki">HELSINKI</option>
                     <option value="copenhagen">COPENHAGEN</option>
-                    <option value="singapore">KATHMANDU</option>
+                    <option value="singapore">STOCKHOLM</option>
                 </select>
                 {/* Search Input field */}
                 <div className='w-full sm:w-[18.75rem] md:w-[70%] relative'>
