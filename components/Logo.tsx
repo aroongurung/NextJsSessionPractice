@@ -11,7 +11,7 @@ const Logo = () => {
                 <div className='font-bold text-4xl text-center pb-4 sm:pb-0 text-night'><Link href="/"><span className="text-primary">O</span>s<span className="text-primary">t</span>a</Link></div>
                 <select className="text-gray-500 text-[0.75rem] w-[6.5rem] outline-night mr-3 ml-3 "
                     name= "city">
-                    id= "city"
+                    id= &quot;city&quot;
                     <option value="helsinki">HELSINKI</option>
                     <option value="copenhagen">COPENHAGEN</option>
                     <option value="singapore">STOCKHOLM</option>

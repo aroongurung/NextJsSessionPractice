@@ -51,7 +51,7 @@ const ReviewInfo = () => {
                                 <h2 className="font-black text-[1.25rem] text-primary">Mars Samrinun</h2>
                                 <p>Helsinki</p>
                                 <p className="max-w-[16.5rem] text-gray-500">
-                                "Fantastic service! The team is always responsive and goes above and beyond to ensure customer satisfaction."
+                                &quot;Fantastic service! The team is always responsive and goes above and beyond to ensure customer satisfaction.&quot;
                                 </p>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ const ReviewInfo = () => {
                                 <h2 className="font-black text-[1.25rem] text-primary">Venus Earhing</h2>
                                 <p>Copehagen</p>
                                 <p className="max-w-[16.5rem] text-gray-500">
-                                "The customer support is exceptional, and their commitment to excellent service is truly impressive."
+                                &quot;The customer support is exceptional, and their commitment to excellent service is truly impressive.&quot;
                                 </p>
                             </div>
                         </div>
